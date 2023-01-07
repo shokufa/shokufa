@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=C71585&size=35&center=true&vCenter=true&width=1000&lines=Hello,%20I'm%20%20Shokufa;Coming%20Soon%20...%20:%29)](https://git.io/typing-svg)
  
 <div align="center">
-   <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=shokufa&theme=dracula&bg_color=6f7285&hide_border=true&area=true" />
+   <img width="90%" src="https://github-readme-activity-graph.cyclic.app/graph?username=shokufa&theme=dracula&bg_color=6f7285&hide_border=true&area=true" />
 </div> 
  
 <!-- ./STAT -->
