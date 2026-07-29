@@ -9,7 +9,7 @@
  
 <!-- ./STAT -->
 <div align="center">  
-  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=shokufa&show_icons=true&count_private=true&hide_border=true&title_color=EE82EE&icon_color=EE82EE&text_color=EE82EE&bg_color=6f7285" alt="Shokufa github stats"/> 
+  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=shokufa&show_icons=true&count_private=true&hide_border=true&title_color=EE82EE&icon_color=EE82EE&text_color=EE82EE&bg_color=6f7285"/> 
  
   <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shokufa&layout=compact&hide_border=true&title_color=EE82EE&text_color=EE82EE&bg_color=6f7285"/>
 </div>
