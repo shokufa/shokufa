@@ -6,10 +6,6 @@
   </a>
 </p>
 
-<div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com?user=shokufa&theme=transparent&hide_border=true&ring=B57EDC&fire=B57EDC&currStreakLabel=B57EDC&sideNums=B57EDC&currStreakNum=B57EDC&dates=B57EDC"/>
-</div>
-
 ---
 
 <p align="center">
