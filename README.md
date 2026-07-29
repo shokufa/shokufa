@@ -1,22 +1,35 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=C71585&height=180&section=header&text=Shokufa&fontSize=35&fontColor=ffffff&animation=twinkling"/>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C71585&height=180&section=header&text=Shokufa&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=C71585&size=35&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Shokufa;Computer+Engineering+Student;AI+%26+Data+Science+Enthusiast;Always+Learning+Something+New+🚀" />
+  </a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=C71585&size=35&center=true&vCenter=true&width=1000&lines=Hello,%20I'm%20%20Shokufa;Coming%20Soon%20...%20:%29)](https://git.io/typing-svg)
- 
 <div align="center">
-   <img width="90%" src="https://github-readme-activity-graph.cyclic.app/graph?username=shokufa&theme=dracula&bg_color=6f7285&hide_border=true&area=true" />
-</div> 
- 
-<!-- ./STAT -->
-<div align="center">  
-  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=shokufa&show_icons=true&count_private=true&hide_border=true&title_color=EE82EE&icon_color=EE82EE&text_color=EE82EE&bg_color=6f7285"/> 
- 
-  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shokufa&layout=compact&hide_border=true&title_color=EE82EE&text_color=EE82EE&bg_color=6f7285"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shokufa&show_icons=true&theme=transparent&hide_border=true&title_color=C71585&icon_color=C71585&text_color=C71585"/>
+
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shokufa&layout=compact&theme=transparent&hide_border=true&title_color=C71585&text_color=C71585"/>
+
 </div>
 
-<!-- ./STATS  -->
-<div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=shokufa&theme=black-ice&hide_border=true&stroke=0000&background=6f7285&ring=EE82EE&fire=EE82EE&currStreakLabel=EE82EE"/></div>
+<br>
 
+<div align="center">
 
+<img width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=shokufa&theme=transparent&hide_border=true&ring=C71585&fire=C71585&currStreakLabel=C71585&sideNums=C71585&currStreakNum=C71585&dates=C71585"/>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C71585&height=120&section=footer"/>
+</div>
+
+---
+
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shokufa-shalchi-043832215/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-C71585?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=C71585&height=120&section=footer"/>
