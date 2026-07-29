@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shokufa-shalchi-043832215/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-C71585?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-B57EDC?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
